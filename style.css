@@ -29,7 +29,9 @@ h1 {
 /* computer */
 @media screen and (min-width: 600px) {
 
-
-
 }
 
+.yoda{
+  display: flex;
+  flex-direction: center;
+}
